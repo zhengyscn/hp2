@@ -1,6 +1,5 @@
 # hp2 (Http Permission)
+> Http Method 认证
 
-## 生成token
-```text
-POST /api/v1/hp2/token
-```
+## resutful api
+
